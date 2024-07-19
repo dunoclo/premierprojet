@@ -1,0 +1,41 @@
+
+span{
+    color: blue;
+}
+article{
+    color: black;
+}
+fieldset{
+    background-color: brown;
+}
+h1{
+    color: rgb(50, 187, 205);
+}
+img{
+    height: 700px;
+    width: 900px;
+}
+body{
+    background-image: url("peter.jpg");
+    background-attachment: fixed;
+    background-position: top right;
+    background-repeat: repeat-y;
+    touch-action: auto;
+    background-size: cover;
+}
+AVENIR{
+    color: aqua;
+}
+INFORMATIQUE{
+    color-scheme: red;
+}
+h2{
+    color: red;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+p{
+    color: black;
+}
